@@ -1,0 +1,12 @@
+del *.obj
+del *.tds
+del *.ddp
+del *.~*
+del *.bak
+del *.asm
+del *.mak
+del *.il*
+del *.map
+del *.pch
+del *.#*
+del *.pch.cache

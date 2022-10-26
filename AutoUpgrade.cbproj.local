@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-12-22 09:31:12.288.cpp,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.cpp=E:\10-MyProject\AutoUpgrade\Main.cpp</Transaction>
+    <Transaction>2010-12-22 09:31:12.288.h,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.h=E:\10-MyProject\AutoUpgrade\Main.h</Transaction>
+    <Transaction>2010-12-22 09:31:12.288.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\10-MyProject\AutoUpgrade\Main.dfm</Transaction>
+    <Transaction>2010-12-22 09:31:27.256.cbproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.cbproj=E:\10-MyProject\AutoUpgrade\AutoUpgrade.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
